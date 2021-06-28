@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculater Simple</string>
+    <string name="heading_text">Calculator App</string>
+    <string name="first_no_hint">first number hint</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="button">CALCULATE</string>
+    <string name="resulttext">Result : </string>
+    <string-array name="spinner_array">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+
+    </string-array>
+</resources>
